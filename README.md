@@ -1,5 +1,4 @@
 # Primeiro repositório do desafio Git/Github - DIO
-Bootcamp Carrefour Web Developer
 Repositório criado para o Desafio de Projeto.
 
 ## Links Úteis 
