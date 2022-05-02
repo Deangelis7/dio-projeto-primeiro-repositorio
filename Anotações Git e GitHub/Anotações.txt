@@ -1,0 +1,17 @@
+Link para download do Git: https://git-scm.com/downloads
+Site para acesso ao GitHub: https://github.com
+-----------------------------------------------------------------------------------------
+> O que é o GIT?
+- Sistema que grava as mudanças feitas em nossos arquivos ao longo do tempo por meio de "snapshots"
+
+- Nele podemos voltar em uma determinada mudança a qualquer momento
+
+- Permite a colaboração de vários desenvolvedores no projeto
+
+ > Fluxo Git
+- Git init: inicializa o repositório Git (necessário).
+- Git add: prepara os arquivos para serem commitados
+- Git commit -m "mensagem": faz o commit dos arquivos preparados 
+--------------------------------------------------------------------------------------
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
